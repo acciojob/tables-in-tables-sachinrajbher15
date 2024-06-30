@@ -1,16 +1,9 @@
 table {
-    width: 100%;
-    border: 1px solid black;
-}
-th, td {
-    border: 1px solid black;
-	padding: 8px;
-    text-align: center;
-}
- .black-bg {
-    background-color: black;
-    color: white;
-}
-.bold-tr-table2{
-	font-weight: bold;
-}
+            width: 100%;
+            border: 1px solid black;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
